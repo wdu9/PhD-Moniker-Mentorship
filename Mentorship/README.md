@@ -1,3 +1,3 @@
-# WDU-PhD-Mentorship
+Mentorship
 
-This repository contains monthly, semesterly, and yearly progress reports.
+This folder is for second years and below. 
